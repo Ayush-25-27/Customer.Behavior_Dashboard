@@ -396,3 +396,6 @@ Dataset sourced from publicly available retail shopping behavior data. Analysis,
 ---
 
 *Built with Python · PostgreSQL · Power BI*
+
+*Built by Ayush Ranjan
+
